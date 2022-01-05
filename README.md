@@ -20,4 +20,8 @@ Letters "I, Ñ, O and U" are not used.
 
 Remember that the lenght of the DNI must be strict and it's 9.
 
+---
+
+The test cases have been made with pytest, if you want to install it, you can do it in console with "pip".
+
 
